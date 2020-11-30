@@ -28,11 +28,11 @@ task-7
 I found Flutter very difficult to learn. The more I googled, the more confused I became.
 
 task-8
-The task was very easy, there was not much to do. I found out what Perceval did. When I googled, I found out that there is a python package called pygithub that can be used to access github accounts and repositories. Then I imported the subprocess package to run the program in terminal. There was an error. It couldn't save it in json file. I couldn't find the answer to it.
-One of my mentors, vchrombie, asked me to find alternatives of subprocess module. I found out that the os module does the exact same thing. When I did it, the program ran sucessfully. :) Thank you vchrombie
+The task was very easy, there was not much to do. I found out what Perceval did. When I googled, I found out that there is a python package called pygithub that can be used to access github accounts and repositories. Then I imported the subprocess package to run the program in terminal. There was an error. The code couldn't save it in json file. I couldn't find the answer to it.
+One of my mentors, vchrombie, asked me to find alternatives of subprocess module. I found out that the os module does the exact same thing. When I imported it, the program ran sucessfully :) Thank you vchrombie.
 
 task-9
-I learnt JavaScript from YouTube videos. Just the basic syntaxes. Then I made the program using frequent searches in Google.
+I learnt JavaScript from YouTube videos. Just the basic syntaxes. Then I made the program searching in Google.
 
 task-10
 Watched the lectures, but could not solve the problem sets.
