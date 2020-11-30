@@ -1,6 +1,6 @@
 1. My goal is to become a software engineer. For that to happen, I am willing and determined to anything which will lead me to its path.
 
-2. I plan to expand my knowledge in programming by practising my competitive programming skills and become one step closer to reach my goal.
+2. I plan to expand my knowledge in programming by practising my competitive programming skills and become closer to reach my goal.
 
 3. After I join the club, I will take part in all the activities that take part in the club. I am willing to help anyone who need a helping hand in the club. I will also try to do summer projects too.
 
