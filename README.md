@@ -16,7 +16,7 @@ Was very challenging. I did 4 of them (Great Eye, Good Strings, The D and Homewo
 
 task-4
 Was very interesting. I used IntelliJ to debug the program. I solved the syntax errors first. It was very easy since the errors were clearly shown in red colour :).
-Then I ran the program. Found lots of logical errors. Since I dont know how the program works (and don't know Java), I tried finding the text displayed on the program and made changes accordingly.
+Then I ran the program. Found lots of errors. Since I don't know how the program works (and don't know Java), I tried finding the text displayed as output and made changes accordingly.
 
 task-5
 Did not attempt because I could not find any proper tutorials to learn Rust.
