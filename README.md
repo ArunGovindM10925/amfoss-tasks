@@ -12,7 +12,7 @@ I googled about it. Did the task using the instructions given in wikiHow.
 https://www.wikihow.com/Register-a-Nickname-on-Freenode
 
 task-3
-Was very challenging. I did 4 of them but only 2 got accepted. The other two showed wrong answer and runtime errors. I couldn't find the reason behind it. I have uploaded the wrong ones too.
+Was very challenging. I did 4 of them (Great Eye, Good Strings, The D and Homework Time) but only 2 (Great Eye and The D) got accepted. The other two showed wrong answer/ runtime errors. I couldn't find the reason behind it. I have uploaded the wrong ones too.
 
 task-4
 Was very interesting. I used IntelliJ to debug the program. I solved the syntax errors first. It was very easy since the errors were clearly shown in red colour :).
