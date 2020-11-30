@@ -32,5 +32,5 @@ task-14
 I learnt the basic linux commands using YouTube videos. Then I attempted the levels in terminal. Some were really tricky but I got through. I have also uploaded all the steps and commands I used to pass the levels.
 
 task-15
-The tasks were pretty straightforward. Simple too. But it was very challenging to make the code more efficient.
+The tasks were pretty straightforward but it was very challenging to make the code more efficient.
 I got 3 of them, but only 1 got accepted. The other two went to timeout errors.
