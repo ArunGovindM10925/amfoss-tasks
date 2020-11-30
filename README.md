@@ -18,6 +18,15 @@ task-4
 Was very interesting. I used IntelliJ to debug the program. I solved the syntax errors first. It was very easy since the errors were clearly shown in red colour :).
 Then I ran the program. Found lots of logical errors. Since I dont know how the program works (and don't know Java), I tried finding the text displayed on the program and made changes accordingly.
 
+task-5
+Did not attempt because I could not find any proper tutorials to learn Rust.
+
+task-6
+Tried to learn Go Programming Language in YouTube. But I could not solve the task.
+
+task-7
+I found Flutter very difficult to learn. The more I googled, the more confused I became.
+
 task-8
 The task was very easy, there was not much to do. I found out what Perceval did. When I googled, I found out that there is a python package called pygithub that can be used to access github accounts and repositories. Then I imported the subprocess package to run the program in terminal. There was an error. It couldn't save it in json file. I couldn't find the answer to it.
 One of my mentors, vchrombie, asked me to find alternatives of subprocess module. I found out that the os module does the exact same thing. When I did it, the program ran sucessfully. :) Thank you vchrombie
@@ -25,8 +34,17 @@ One of my mentors, vchrombie, asked me to find alternatives of subprocess module
 task-9
 I learnt JavaScript from YouTube videos. Just the basic syntaxes. Then I made the program using frequent searches in Google.
 
+task-10
+Watched the lectures, but could not solve the problem sets.
+
 task-11
 I used canva.com to create the poster. Literally took 10 minutes to finish xD
+
+task-12
+Tried to attempt it. But I could not solve it.
+
+task-13
+Not a hardware freak tbh.
 
 task-14
 I learnt the basic linux commands using YouTube videos. Then I attempted the levels in terminal. Some were really tricky but I got through. I have also uploaded all the steps and commands I used to pass the levels.
