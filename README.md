@@ -51,4 +51,4 @@ I learnt the basic linux commands using YouTube videos. Then I attempted the lev
 
 task-15
 The tasks were pretty straightforward but it was very challenging to make the code more efficient.
-I got 3 of them(Even Fibonacci numbers, Multiples of 3 and 5 and Smallest multiple), but only 1 (Even Fibonacci numbers) got accepted. The other two went to timeout errors.
+I got 3 of them (Even Fibonacci numbers, Multiples of 3 and 5 and Smallest multiple), but only 1 (Even Fibonacci numbers) got accepted. The other two went to timeout errors.
