@@ -5,7 +5,7 @@ I installed Ubuntu Desktop 20.04 LTS as per the instructions given in https://it
 Works fine with my laptop though I face a bit of heating issues.
 
 task-1
-I did the task as per the resources as given in the PDF.
+I did the task as per the resources given in the PDF.
 
 task-2
 I googled about it. Did the task using the instructions given in wikiHow.
